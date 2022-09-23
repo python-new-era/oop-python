@@ -14,4 +14,4 @@ pemain1 = Player()
 pemain2 = Player()
 
 print(pemain1.getName("Warjono"))
-print(pemain2.getName("Jokowi"))
+print(pemain2.getName("Marjono"))
